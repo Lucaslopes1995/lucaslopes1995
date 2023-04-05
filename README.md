@@ -1,4 +1,4 @@
-## Olá, eu sou o Lucas Soares, estudante de desenvolvimento Web Full Stack.
+## Olá, eu sou o Lucas Soares, desenvolvedor Web Full Stack.
 <div align="center">
   <a href="https://github.com/Lucaslopes1995">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Lucaslopes1995&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
